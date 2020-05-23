@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;impacta-unit-testing-master&apos; to &apos;TDD-Impacta-QA&apos;&#x0D;&#x0A;- Original element: &apos;impacta-unit-testing-master&apos;&#x0D;&#x0A;- Renamed element: &apos;impacta-unit-testing-master&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;impacta-unit-testing-master&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=impacta-unit-testing-master" name="TDD-Impacta-QA" references="true" stamp="1590110851773" version="1.0"/>
+</session>
